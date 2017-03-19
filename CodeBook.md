@@ -53,7 +53,7 @@ The output of the "run_analysis.R" script is saved as "second_dataset.txt"
         4 tBodyAcc-mean()-Y
         5 tBodyAcc-mean()-Z
         6 tBodyAcc-std()-X
-        7  tBodyAcc-std()-Y
+        7 tBodyAcc-std()-Y
         8 tBodyAcc-std()-Z
         9 tGravityAcc-mean()-X
         10 tGravityAcc-mean()-Y
@@ -149,6 +149,7 @@ The output of the "run_analysis.R" script is saved as "second_dataset.txt"
 
 - this is the type of activity performed
 - class: character 
+        
         "laying"
         "sitting"
         "standing"
