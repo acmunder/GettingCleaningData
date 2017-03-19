@@ -19,4 +19,4 @@ Each step is further explained in the script.
 ### The output of the "run_analysis.R" script is saved as "second_dataset.txt"
 
 
-### "CodeBook.rmd" provides further information on this project.
+### "CodeBook.md" provides further information on this project.
